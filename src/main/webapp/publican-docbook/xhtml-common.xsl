@@ -35,9 +35,9 @@
 <xsl:param name="html.longdesc.link" select="0"/>
 <xsl:param name="html.longdesc" select="0"/>
 <xsl:param name="html.longdesc.embed" select="1"/>
-<xsl:param name="html.stylesheet"><xsl:if test="$embedtoc = 0 ">/pressgang-ccms-static/brand/JBoss/css/default.css</xsl:if></xsl:param>
+<xsl:param name="html.stylesheet"><xsl:if test="$embedtoc = 0 ">/pressgang-ccms-static/brand/Common/css/default.css</xsl:if></xsl:param>
 <xsl:param name="html.stylesheet.type" select="'text/css'"/>
-<xsl:param name="html.stylesheet.print"><xsl:if test="$embedtoc = 0 ">/pressgang-ccms-static/brand/JBoss/css/print.css</xsl:if></xsl:param>
+<xsl:param name="html.stylesheet.print"><xsl:if test="$embedtoc = 0 ">/pressgang-ccms-static/brand/Common/css/print.css</xsl:if></xsl:param>
 <xsl:param name="html.cleanup" select="0"/>
 <xsl:param name="html.ext" select="'.html'"/>
 <xsl:output method="xml" indent="yes"/>
