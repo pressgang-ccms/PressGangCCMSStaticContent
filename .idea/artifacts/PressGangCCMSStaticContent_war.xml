@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PressGangCCMSStaticContent:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PressGangCCMSStaticContent-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PressGangCCMSStaticContent:war exploded" />
+    </root>
+  </artifact>
+</component>
