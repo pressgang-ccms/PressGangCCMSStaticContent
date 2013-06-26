@@ -2,208 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/bkgrnd_greydots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/bullet_arrowblue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/documentation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/dot2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/h1-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/image_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/image_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/important.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/note.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/rhlogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/shade.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/stock-go-back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/stock-go-forward.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/stock-go-up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/stock-home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/title_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/10.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/12.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/13.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/14.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/16.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/17.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/18.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/19.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/20.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/21.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/22.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/23.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/24.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/25.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/26.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/27.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/28.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/29.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/30.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/31.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/32.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/33.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/34.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/35.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/36.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/37.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/38.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/39.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/40.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/9.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/abstract.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/autoidx-kimber.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/autoidx-kosek.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/autoidx.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/carousel.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/changebars.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/db4-upgrade.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/docbook-no-doctype.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/drupal-book.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/dt_htmlsingle_spec.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/eclipse.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/epub.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/glossary.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-pdf.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/important.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/jboss-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/man.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/css/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/merge_revisions.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/note.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/css/overrides.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/pdf.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/redhat-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/subtitle.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/title_logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/txt.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images/warning.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/web-home-spec.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/web-spec.xsl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/autoidx-kimber.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/autoidx-kosek.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/autoidx.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/changebars.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/glossary.xsl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/param.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/pi.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/admon.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/admon.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/annotations.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/annotations.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/autoidx-ng.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/autoidx-ng.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/autotoc.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/autotoc.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/biblio-iso690.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/biblio-iso690.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/biblio.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/biblio.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/block.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/block.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/callout.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/callout.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunk-changebars.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-changebars.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunk-code.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-code.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunk-common.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-common.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunk.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunker.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunker.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunkfast.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunkfast.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/chunktoc.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunktoc.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/component.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/component.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/division.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/division.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/docbook.css.xml" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/docbook.css.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/docbook.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/docbook.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/ebnf.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/ebnf.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/footnote.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/footnote.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/formal.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/formal.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/graphics.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/highlight.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/highlight.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/html-rtf.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/html-rtf.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/html.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/html.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/htmltbl.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/htmltbl.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/index.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/index.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/info.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/info.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/inline.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/inline.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/keywords.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/keywords.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/lists.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/lists.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/maketoc.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/maketoc.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/manifest.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/manifest.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/math.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/math.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/oldchunker.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/oldchunker.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/onechunk.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/onechunk.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/param.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/param.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/pi.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/pi.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/profile-chunk-code.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/profile-chunk-code.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/profile-chunk.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/profile-chunk.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/profile-docbook.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/profile-docbook.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/profile-onechunk.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/profile-onechunk.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/qandaset.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/qandaset.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/refentry.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/refentry.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/sections.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/sections.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/synop.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/synop.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/table.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/table.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/task.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/task.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/titlepage.templates.xml" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/titlepage.templates.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/titlepage.templates.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/titlepage.templates.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/titlepage.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/titlepage.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/toc.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/toc.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/verbatim.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/verbatim.xsl" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/docbook/html/xref.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/xref.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" afterPath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372279277703" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280859139" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280586467" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372282526275" ignored="false" />
     <file path="/CacheControl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372279299682" ignored="false" />
     <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280789778" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280032274" ignored="false" />
@@ -322,10 +130,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single.xsl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html-single.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="15" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.38135594">
               <folding />
             </state>
           </provider>
@@ -340,10 +148,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="347" column="118" selection-start="12605" selection-end="12605" vertical-scroll-proportion="0.33277026">
+            <state line="347" column="118" selection-start="12605" selection-end="12605" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -352,7 +160,7 @@
       <file leaf-file-name="defaults.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="23" selection-start="2437" selection-end="2437" vertical-scroll-proportion="0.0">
+            <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -391,6 +199,8 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/docbook/html/param.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       </list>
     </option>
   </component>
@@ -829,7 +639,11 @@
       <created>1372220842606</created>
       <updated>1372220842606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added publican xsl, css and image customizations">
+      <created>1372280866355</created>
+      <updated>1372280866355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -848,6 +662,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,12 +670,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6716259" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32837406" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -869,8 +683,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <value>
         <are-packages-shown value="false" />
@@ -906,7 +720,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added filter to set cache headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added publican xsl, css and image customizations" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -921,6 +735,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Added filter to set cache headers" />
+    <MESSAGE value="Added publican xsl, css and image customizations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1027,23 +842,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/JBoss/css/menu.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="23" selection-start="2437" selection-end="2437" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1057,7 +858,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="347" column="118" selection-start="12605" selection-end="12605" vertical-scroll-proportion="0.33277026">
+        <state line="347" column="118" selection-start="12605" selection-end="12605" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.38135594">
           <folding />
         </state>
       </provider>

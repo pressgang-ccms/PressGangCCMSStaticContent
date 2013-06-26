@@ -7,6 +7,8 @@
 		version="1.0"
 		exclude-result-prefixes="l exsl perl">
 
+<xsl:param name="publican.version">PressGang</xsl:param>
+
 <xsl:param name="ulink.target">_top</xsl:param>
 
 <!-- titles after all elements -->
