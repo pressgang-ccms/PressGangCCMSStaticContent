@@ -5,6 +5,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
+/**
+ * Set the cache headers.
+ */
 public class CacheControl implements Filter {
     private static final long ONE_DAY_MS = 86400000L;
     private static final long ONE_YEAR_MS = ONE_DAY_MS * 365;
