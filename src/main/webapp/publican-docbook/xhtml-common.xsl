@@ -21,7 +21,7 @@
 <!-- Admonition Graphics -->
 <xsl:param name="admon.graphics" select="1"/>
 <xsl:param name="admon.style" select="''"/>
-<xsl:param name="admon.graphics.path">/pressgang-ccms-static/brand/JBoss/images</xsl:param>
+<xsl:param name="admon.graphics.path">/pressgang-ccms-static/brand/Common/images</xsl:param>
 <xsl:param name="callout.graphics.path"><xsl:value-of select="$admon.graphics.path"/></xsl:param>
 
 <xsl:param name="package" select="''"/>
@@ -343,11 +343,11 @@ Version: 1.72.0
 		</xsl:if>
 	</xsl:if>
       <xsl:if test="$embedtoc != 0 ">
-          <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../common/<xsl:value-of select="$langpath"/>/pressgang-ccms-static/brand/JBoss/css/menu.css</xsl:attribute></link>
+          <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../common/<xsl:value-of select="$langpath"/>/pressgang-ccms-static/brand/Common/css/menu.css</xsl:attribute></link>
           <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../menu.css</xsl:attribute></link>
           <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../print.css</xsl:attribute><xsl:attribute name="media">print</xsl:attribute></link>
         <xsl:if test="$brand != 'common'">
-          <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../<xsl:value-of select="$brand"/>/<xsl:value-of select="$langpath"/>/pressgang-ccms-static/brand/JBoss/css/menu.css</xsl:attribute></link>
+          <link rel="stylesheet" type="text/css"><xsl:attribute name="href"><xsl:value-of select="$tocpath"/>/../<xsl:value-of select="$brand"/>/<xsl:value-of select="$langpath"/>/pressgang-ccms-static/brand/Common/css/menu.css</xsl:attribute></link>
 	</xsl:if>
           <script type="text/javascript"><xsl:attribute name="src"><xsl:value-of select="$tocpath"/>/../jquery-1.7.1.min.js</xsl:attribute></script>
           <script type="text/javascript"><xsl:attribute name="src"><xsl:value-of select="$tocpath"/>/labels.js</xsl:attribute></script>
