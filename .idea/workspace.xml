@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372283692185" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285204491" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372282526275" ignored="false" />
     <file path="/CacheControl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372279299682" ignored="false" />
-    <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280789778" ignored="false" />
+    <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285273020" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280032274" ignored="false" />
     <file path="/xhtml-common.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372283573386" ignored="false" />
+    <file path="/html-single.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285348881" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285587252" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,10 +113,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single.xsl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html-single.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+            <state line="81" column="21" selection-start="2736" selection-end="2736" vertical-scroll-proportion="0.9135593">
               <folding />
             </state>
           </provider>
@@ -129,10 +131,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="349" column="214" selection-start="12943" selection-end="12943" vertical-scroll-proportion="0.33274338">
+            <state line="349" column="214" selection-start="12943" selection-end="12943" vertical-scroll-proportion="-7.52">
               <folding />
             </state>
           </provider>
@@ -198,8 +200,8 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/docbook/html/param.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       </list>
     </option>
   </component>
@@ -688,7 +690,11 @@
       <created>1372283694029</created>
       <updated>1372283694029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Working on fixing publican customizations">
+      <created>1372285206116</created>
+      <updated>1372285206116</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -698,7 +704,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -716,7 +722,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -879,13 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -909,7 +908,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="349" column="214" selection-start="12943" selection-end="12943" vertical-scroll-proportion="0.33274338">
+        <state line="349" column="214" selection-start="12943" selection-end="12943" vertical-scroll-proportion="-7.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="21" selection-start="2736" selection-end="2736" vertical-scroll-proportion="0.9135593">
           <folding />
         </state>
       </provider>

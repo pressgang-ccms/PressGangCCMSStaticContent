@@ -53,7 +53,7 @@ Version:
         <div id="navigation"></div>
         <div id="floatingtoc" class="hidden"></div>
       </xsl:if>
-      <xsl:if test="$embedtoc = 0 or $web.type = ''">
+      <!--<xsl:if test="$embedtoc = 0 or $web.type = ''">
       <p xmlns="http://www.w3.org/1999/xhtml">
         <xsl:attribute name="id">
            <xsl:text>title</xsl:text>
@@ -79,7 +79,7 @@ Version:
 	  </img>
         </a>
       </p>
-      </xsl:if>
+      </xsl:if>   -->
     <xsl:if test="$embedtoc != 0 and $web.type = ''">
       <ul class="docnav" xmlns="http://www.w3.org/1999/xhtml">
         <li class="home"><xsl:value-of select="$clean_title"/></li>
