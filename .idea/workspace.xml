@@ -3,24 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285602843" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291717127" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372287086332" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291806262" ignored="false" />
     <file path="/CacheControl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372279299682" ignored="false" />
-    <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285273020" ignored="false" />
+    <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372290720837" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372280032274" ignored="false" />
-    <file path="/xhtml-common.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372283573386" ignored="false" />
+    <file path="/xhtml-common.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291607398" ignored="false" />
     <file path="/html-single.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372285348881" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372288116517" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291817862" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/.errai/BootstrapperImpl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372287086332" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/restcalls/BaseRestCallback.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372288118806" ignored="false" />
     <file path="/BaseRestCallback.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372288082269" ignored="false" />
-    <file path="/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372288104246" ignored="false" />
+    <file path="/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291816209" ignored="false" />
+    <file path="/graphics.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372290975390" ignored="false" />
+    <file path="/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291804999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,100 +82,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-            <state />
-          </provider>
-          <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="22" selection-start="525" selection-end="525" vertical-scroll-proportion="-0.5769231">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="man.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/man.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pi.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/pi.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html-single.xsl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html-single.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="31" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.0">
+            <state line="14" column="42" selection-start="681" selection-end="681" vertical-scroll-proportion="0.3697183">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html.xsl">
+      <file leaf-file-name="html-single-placeholder.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="3" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="xhtml-common.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="42" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.33274338">
+            <state line="1651" column="0" selection-start="64247" selection-end="74450" vertical-scroll-proportion="-10.8">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css">
+      <file leaf-file-name="chunk-common.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-common.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1439" column="13" selection-start="77850" selection-end="77850" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="defaults.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl">
+      <file leaf-file-name="graphics.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+            <state line="577" column="38" selection-start="24938" selection-end="24964" vertical-scroll-proportion="-9.92">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/JBoss/css/menu.css">
+      <file leaf-file-name="math.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/math.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="251" column="27" selection-start="7934" selection-end="7934" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overrides.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/JBoss/css/overrides.css">
+      <file leaf-file-name="common.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="1097" column="45" selection-start="40241" selection-end="40241" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stripns.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/stripns.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="239" column="38" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertfile.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/insertfile.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="43" selection-start="2882" selection-end="2882" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="154" column="77" selection-start="4196" selection-end="4196" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -204,8 +196,9 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/docbook/html/param.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/defaults.xsl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       </list>
     </option>
   </component>
@@ -498,11 +491,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/publican-docbook" />
       <recent name="$PROJECT_DIR$/src/main/webapp/brand/JBoss/images" />
       <recent name="$PROJECT_DIR$/src/main/webapp/brand/JBoss/css" />
       <recent name="$PROJECT_DIR$/src/main/webapp/docbook" />
       <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunManager" selected="Maven.Package">
@@ -702,7 +695,15 @@
       <created>1372285604554</created>
       <updated>1372285604554</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed table rendering: use.extensions has to be 0">
+      <created>1372288279976</created>
+      <updated>1372288279976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added ability to have palceholder images">
+      <created>1372291718762</created>
+      <updated>1372291718762</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -729,7 +730,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919957" sideWeight="0.6709265" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -779,7 +780,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on fixing publican customizations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added ability to have palceholder images" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -796,6 +797,8 @@
     <MESSAGE value="Added filter to set cache headers" />
     <MESSAGE value="Added publican xsl, css and image customizations" />
     <MESSAGE value="Working on fixing publican customizations" />
+    <MESSAGE value="Fixed table rendering: use.extensions has to be 0" />
+    <MESSAGE value="Added ability to have palceholder images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -805,73 +808,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/lib/lib.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="48" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/lib/lib.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="30" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="115" selection-end="115" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="22" selection-start="525" selection-end="525" vertical-scroll-proportion="-0.5769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/man.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/pi.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -914,16 +850,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="31" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.0">
+        <state line="154" column="77" selection-start="4196" selection-end="4196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/math.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="251" column="27" selection-start="7934" selection-end="7934" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1097" column="45" selection-start="40241" selection-end="40241" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/stripns.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="239" column="38" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/insertfile.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="43" selection-start="2882" selection-end="2882" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-common.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1439" column="13" selection-start="77850" selection-end="77850" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="577" column="38" selection-start="24938" selection-end="24964" vertical-scroll-proportion="-9.92">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="42" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.33274338">
+        <state line="1651" column="0" selection-start="64247" selection-end="74450" vertical-scroll-proportion="-10.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="42" selection-start="681" selection-end="681" vertical-scroll-proportion="0.3697183">
           <folding />
         </state>
       </provider>
