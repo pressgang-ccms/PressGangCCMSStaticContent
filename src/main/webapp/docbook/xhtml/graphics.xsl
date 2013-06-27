@@ -576,12 +576,12 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
          </xsl:if>
 
           <xsl:attribute name="src">
-           <!--<xsl:choose>
+           <xsl:choose>
              <xsl:when test="$img.src.path != '' and                            $tag = 'img' and                              not(starts-with($output_filename, '/')) and                            not(contains($output_filename, '://'))">
                <xsl:value-of select="$img.src.path"/>
              </xsl:when>
            </xsl:choose>
-            <xsl:value-of select="$output_filename"/>-->
+            <xsl:value-of select="$output_filename"/>
           </xsl:attribute>
 
           <xsl:if test="@align">

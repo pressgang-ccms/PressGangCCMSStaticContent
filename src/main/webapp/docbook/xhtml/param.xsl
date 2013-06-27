@@ -409,6 +409,7 @@ set       toc,title
 <xsl:param name="toc.section.depth">2</xsl:param>
 <xsl:param name="ulink.target">_top</xsl:param>
 <xsl:param name="use.embed.for.svg" select="0"/>
+<!-- PRESSGANG - set this to 0 to render tables -->
 <xsl:param name="use.extensions" select="0"/>
 <xsl:param name="use.id.as.filename" select="0"/>
 <xsl:param name="use.local.olink.style" select="0"/> 

@@ -1649,6 +1649,7 @@ valign: <xsl:value-of select="@valign"/></xsl:message>
          </xsl:if>
 
           <xsl:attribute name="src">
+             <!-- PRESSGANG - Display a placeholder if $placeholderImg = 1 -->
               <xsl:choose>
               <xsl:when test="$placeholderImg != 1">
                 <xsl:choose>

@@ -12,6 +12,10 @@
 
 <xsl:output method="xml" encoding="UTF-8" indent="no" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" omit-xml-declaration="no" />
 
+<!--
+    PRESSGANG - This is read by <xsl:template name="process.image"> in xhtml-common, and defines whether a placeholder image
+    is displayed for all images, or if the original image should be displayed.
+-->
 <xsl:param name="placeholderImg" select="0"/>
 
 <xsl:param name="html.append"/>
@@ -55,6 +59,7 @@ Version:
         <div id="navigation"></div>
         <div id="floatingtoc" class="hidden"></div>
       </xsl:if>
+        <!-- PRESSGANG - Remove header images -->
       <!--<xsl:if test="$embedtoc = 0 or $web.type = ''">
       <p xmlns="http://www.w3.org/1999/xhtml">
         <xsl:attribute name="id">
