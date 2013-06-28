@@ -662,7 +662,7 @@ element label.</para>
           <xsl:number format="1" from="chapter|appendix" level="any"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:number format="1" from="book|article" level="any"/>
+          <xsl:number format="1" from="book|article|section" level="any"/>
         </xsl:otherwise>
       </xsl:choose>
     </xsl:otherwise>
@@ -700,7 +700,7 @@ element label.</para>
         </xsl:when>
         <xsl:otherwise>
           <xsl:number count="procedure[title]" format="1" 
-                      from="book|article" level="any"/>
+                      from="book|article|section" level="any"/>
         </xsl:otherwise>
       </xsl:choose>
     </xsl:otherwise>
@@ -735,7 +735,7 @@ element label.</para>
         </xsl:when>
         <xsl:otherwise>
           <xsl:number format="1" count="equation" 
-                      from="book|article" level="any"/>
+                      from="book|article|section" level="any"/>
         </xsl:otherwise>
       </xsl:choose>
     </xsl:otherwise>
