@@ -40,6 +40,14 @@ Version:
     <xsl:otherwise>
   <html>
     <head>
+
+        <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+        <script>
+            $(window).load(function() {
+                window.parent.postMessage('loaded', window.location.protocol + "//" + window.location.hostname + ":" + window.location.port);
+            });
+        </script>
+
       <xsl:call-template name="system.head.content">
         <xsl:with-param name="node" select="$doc"/>
       </xsl:call-template>
