@@ -16,20 +16,20 @@ public class CacheControl implements Filter {
 
     }
 
-    public void init(FilterConfig config) throws ServletException {
+    public void init(final FilterConfig config) throws ServletException {
 
     }
     
-    public void doFilter(ServletRequest request, ServletResponse response, FilterChain filterChain) throws IOException, ServletException {
-    HttpServletRequest httpRequest = (HttpServletRequest) request;
-    HttpServletResponse httpResponse = (HttpServletResponse) response;
-    String requestURI = httpRequest.getRequestURI();
+    public void doFilter(final ServletRequest request, final ServletResponse response, final FilterChain filterChain) throws IOException, ServletException {
+        HttpServletRequest httpRequest = (HttpServletRequest) request;
+        HttpServletResponse httpResponse = (HttpServletResponse) response;
+        String requestURI = httpRequest.getRequestURI();
 
 
-    long now = System.currentTimeMillis();
-    httpResponse.setDateHeader("Date", now);
-    httpResponse.setDateHeader("Expires", now + ONE_YEAR_MS);
+        long now = System.currentTimeMillis();
+        httpResponse.setDateHeader("Date", now);
+        httpResponse.setDateHeader("Expires", now + ONE_YEAR_MS);
 
-      filterChain.doFilter(request, response);
+        filterChain.doFilter(request, response);
     }
 }
