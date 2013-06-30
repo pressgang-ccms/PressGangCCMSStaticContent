@@ -21,12 +21,12 @@ public class CacheControl implements Filter {
     }
     
     public void doFilter(final ServletRequest request, final ServletResponse response, final FilterChain filterChain) throws IOException, ServletException {
-        HttpServletRequest httpRequest = (HttpServletRequest) request;
-        HttpServletResponse httpResponse = (HttpServletResponse) response;
-        String requestURI = httpRequest.getRequestURI();
+        final HttpServletRequest httpRequest = (HttpServletRequest) request;
+        final HttpServletResponse httpResponse = (HttpServletResponse) response;
+        final String requestURI = httpRequest.getRequestURI();
 
 
-        long now = System.currentTimeMillis();
+        final long now = System.currentTimeMillis();
         httpResponse.setDateHeader("Date", now);
         httpResponse.setDateHeader("Expires", now + ONE_YEAR_MS);
 
