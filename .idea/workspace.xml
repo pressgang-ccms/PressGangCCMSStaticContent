@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css" afterPath="$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372642371279" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373092296138" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372378573536" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091425682" ignored="false" />
     <file path="/CacheControl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632651430" ignored="false" />
     <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372383808899" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372298426043" ignored="false" />
@@ -25,8 +32,8 @@
     <file path="/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372291804999" ignored="false" />
     <file path="/TopicRenderedPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372296497399" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/TopicRenderedPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632793921" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/topics/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632796512" ignored="false" />
-    <file path="/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372297327881" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/topics/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091619894" ignored="false" />
+    <file path="/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091617476" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/base/BaseTopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629420584" ignored="false" />
     <file path="/BaseTopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629410159" ignored="false" />
     <file path="/html-single-placeholder.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372384500372" ignored="false" />
@@ -57,7 +64,7 @@
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/base/children/BaseChildrenViewInterface.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629917324" ignored="false" />
     <file path="/*.regexp" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372642388552" ignored="false" />
     <file path="/common.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372630031397" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRevisionsView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372631061724" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRevisionsView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373092290233" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TranslatedTopicView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372631061724" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicTagsView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372631061724" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/base/BaseTemplatePresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632089825" ignored="false" />
@@ -66,9 +73,14 @@
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/TopicRevisionsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632793921" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/topics/TopicFilteredResultsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632796512" ignored="false" />
     <file path="/BaseTemplateView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372633644726" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/CSSConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372633740701" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372633760384" ignored="false" />
-    <file path="/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372633759983" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/CSSConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091425682" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091237351" ignored="false" />
+    <file path="/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091226806" ignored="false" />
+    <file path="/TopicRevisionsView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373092290233" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.html" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373090019682" ignored="false" />
+    <file path="/App.html" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373090016827" ignored="false" />
+    <file path="/CSSConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091166532" ignored="false" />
+    <file path="/overrides.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373092510726" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,21 +145,47 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
             <state line="70" column="7" selection-start="2618" selection-end="2618" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1372633206857" expanded="true" signature="1510:1667" placeholder="{...}" />
-                <marker date="1372633206857" expanded="true" signature="1710:2202" placeholder="{...}" />
-                <marker date="1372633206857" expanded="true" signature="1851:2188" placeholder="{...}" />
-                <marker date="1372633206857" expanded="true" signature="2019:2170" placeholder="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.32391715">
+            <state line="14" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overrides.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.12583892">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="19" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html-single-diff.xsl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="124" column="0" selection-start="6009" selection-end="6009" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1373088240501" expanded="true" signature="1755:2635" placeholder="{...}" />
+                <marker date="1373088240501" expanded="true" signature="1928:2361" placeholder="{...}" />
+                <marker date="1373088240501" expanded="true" signature="2144:2327" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,22 +212,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
           <provider selected="true" editor-type-id="text-editor">
             <state line="31" column="15" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1372384935342" expanded="true" signature="1510:1667" placeholder="{...}" />
-                <marker date="1372384935342" expanded="true" signature="1710:2204" placeholder="{...}" />
-                <marker date="1372384935342" expanded="true" signature="1710:2202" placeholder="{...}" />
-                <marker date="1372384935342" expanded="true" signature="1851:2202" placeholder="{...}" />
-                <marker date="1372384935342" expanded="true" signature="1851:2188" placeholder="{...}" />
-                <marker date="1372384935342" expanded="true" signature="2019:2170" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db4-upgrade.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/db4-upgrade.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1309" column="25" selection-start="42195" selection-end="42195" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -199,24 +221,6 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl">
           <provider selected="true" editor-type-id="text-editor">
             <state line="31" column="2" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chunk-code.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-code.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="554" column="22" selection-start="20498" selection-end="20498" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="591" column="36" selection-start="17786" selection-end="17786" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -261,6 +265,8 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css" />
       </list>
     </option>
   </component>
@@ -279,8 +285,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-4" />
-    <option name="width" value="1920" />
-    <option name="height" value="996" />
+    <option name="width" value="1936" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -316,63 +322,23 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PressGangCCMSStaticContent" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -394,7 +360,59 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pressgang-ccms-static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="publican-docbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pressgang-ccms-static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docbook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -417,10 +435,14 @@
               <option name="myItemId" value="brand" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -435,10 +457,26 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brand" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
+              <option name="myItemId" value="pressgang-ccms-static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -471,12 +509,11 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -529,6 +566,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -555,19 +605,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -733,13 +770,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-4" width="1920" height="996" extended-state="0" />
+    <frame x="-8" y="-4" width="1936" height="1092" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32660332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -755,11 +791,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24650161" sideWeight="0.6888361" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3111639" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24439701" sideWeight="0.6891026" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31089744" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32660332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -840,23 +877,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/stripns.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="239" column="38" selection-start="8236" selection-end="8236" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/chunk-common.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1439" column="13" selection-start="77850" selection-end="77850" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/param.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="411" column="14" selection-start="18561" selection-end="18570" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/dt_htmlsingle_spec.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -916,14 +936,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="15" selection-start="1141" selection-end="1141" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1372384935342" expanded="true" signature="1510:1667" placeholder="{...}" />
-            <marker date="1372384935342" expanded="true" signature="1710:2204" placeholder="{...}" />
-            <marker date="1372384935342" expanded="true" signature="1710:2202" placeholder="{...}" />
-            <marker date="1372384935342" expanded="true" signature="1851:2202" placeholder="{...}" />
-            <marker date="1372384935342" expanded="true" signature="1851:2188" placeholder="{...}" />
-            <marker date="1372384935342" expanded="true" signature="2019:2170" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -944,18 +957,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="7" selection-start="2618" selection-end="2618" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="0" selection-start="6009" selection-end="6009" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1372633206857" expanded="true" signature="1510:1667" placeholder="{...}" />
-            <marker date="1372633206857" expanded="true" signature="1710:2202" placeholder="{...}" />
-            <marker date="1372633206857" expanded="true" signature="1851:2188" placeholder="{...}" />
-            <marker date="1372633206857" expanded="true" signature="2019:2170" placeholder="{...}" />
+            <marker date="1373088240501" expanded="true" signature="1755:2635" placeholder="{...}" />
+            <marker date="1373088240501" expanded="true" signature="1928:2361" placeholder="{...}" />
+            <marker date="1373088240501" expanded="true" signature="2144:2327" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.32391715">
+        <state line="14" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="88" selection-end="88" vertical-scroll-proportion="0.12583892">
           <folding />
         </state>
       </provider>
