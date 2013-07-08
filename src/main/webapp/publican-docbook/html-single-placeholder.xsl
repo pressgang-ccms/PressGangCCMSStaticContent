@@ -44,18 +44,14 @@ Version:
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script>
             $(window).load(function() {
-                window.parent.postMessage('loaded', window.location.protocol + "//" + window.location.hostname + ":" + window.location.port);
-            });
+                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
+                var matches = parentDomainRegex.exec(window.location.search);
 
-            $(window).ready(function() {
-                var imageTags = $('img');
-                for (var i = 0, imageTagsLength = imageTags.length; i &lt; imageTagsLength; ++i) {
-                    var imageTag = $(imageTags[i]);
-                    var fileref = imageTag.attr('src');
-                    if (fileref.substr(0,6) === 'images') {
-                        imageTag.attr('src', '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
-                    }
-                }
+                var parentLocation = matches == null ?
+                        window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
+                        matches[1];
+
+                window.parent.postMessage('loaded', parentLocation);
             });
         </script>
 

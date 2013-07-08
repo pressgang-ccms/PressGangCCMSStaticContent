@@ -53,8 +53,15 @@
                                     }
                                 }
 
+                                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
+                                var matches = parentDomainRegex.exec(window.location.search);
+
+                                var parentLocation = matches == null ?
+                                        window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
+                                        matches[1];
+
                                 // post the rendered html back to the parent
-                                window.parent.postMessage($("html").html(), window.location.protocol + "//" + window.location.hostname + ":" + window.location.port);
+                                window.parent.postMessage($("html").html(), parentLocation);
                             });
                         </script>
 
