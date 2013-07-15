@@ -61,7 +61,7 @@
                                         matches[1];
 
                                 // post the rendered html back to the parent
-                                window.parent.postMessage("{\"html\": \"" + $("html").html().replace(/"/g,"\\\"") + "\", \"href\" : \"" + document.location.href + "\"}", parentLocation);
+                                window.parent.postMessage("{\"html\":\"" + $("html").html().replace(/\\/g,"\\\\").replace(/\t/g,"\\t").replace(/\n/g,"\\n").replace(/"/g,"\\\"") + "\",\"href\":\"" + document.location.href + "\"}", parentLocation);
                             });
                         </script>
 
