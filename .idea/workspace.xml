@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373934034948" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373934511178" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373247701139" ignored="false" />
@@ -16,7 +15,7 @@
     <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372383808899" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372298426043" ignored="false" />
     <file path="/xhtml-common.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372298472029" ignored="false" />
-    <file path="/html-single.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373933611376" ignored="false" />
+    <file path="/html-single.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373934927362" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicRenderedView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373934391280" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/.errai/BootstrapperImpl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372378441013" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/restcalls/BaseRestCallback.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629329729" ignored="false" />
@@ -142,16 +141,17 @@
       <file leaf-file-name="html-single.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="12" selection-start="2750" selection-end="2750" vertical-scroll-proportion="0.54404145">
+            <state line="82" column="62" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.8031088">
               <folding>
-                <marker date="1373934274230" expanded="true" signature="1847:1946" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="1989:2498" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2130:2484" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2298:2466" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2559:2751" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2819:3103" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2841:3089" placeholder="{...}" />
-                <marker date="1373934274230" expanded="true" signature="2960:3071" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="1847:1946" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="1989:2498" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2130:2484" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2298:2466" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2559:2751" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2819:3204" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2841:3089" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="2960:3071" placeholder="{...}" />
+                <marker date="1373934942699" expanded="true" signature="3108:3190" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -693,7 +693,11 @@
       <created>1373934037002</created>
       <updated>1373934037002</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Scrolling is now done by way of messages">
+      <created>1373934513609</created>
+      <updated>1373934513609</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -720,7 +724,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.62597656" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37402344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37402344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -770,7 +774,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed cross domain issues by having the iframe send the current scroll position to the parent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scrolling is now done by way of messages" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -800,6 +804,7 @@
     <MESSAGE value="For the XML rendered as a source for a diff, the rendered page now sends back the rendered html and the HREF that the page was loaded from." />
     <MESSAGE value="Images are now sourced from the server that supplied the XML, not the server the supplied the UI." />
     <MESSAGE value="Fixed cross domain issues by having the iframe send the current scroll position to the parent" />
+    <MESSAGE value="Scrolling is now done by way of messages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -914,16 +919,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="12" selection-start="2750" selection-end="2750" vertical-scroll-proportion="0.54404145">
+        <state line="82" column="62" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.8031088">
           <folding>
-            <marker date="1373934274230" expanded="true" signature="1847:1946" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="1989:2498" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2130:2484" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2298:2466" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2559:2751" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2819:3103" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2841:3089" placeholder="{...}" />
-            <marker date="1373934274230" expanded="true" signature="2960:3071" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="1847:1946" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="1989:2498" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2130:2484" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2298:2466" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2559:2751" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2819:3204" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2841:3089" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="2960:3071" placeholder="{...}" />
+            <marker date="1373934942699" expanded="true" signature="3108:3190" placeholder="{...}" />
           </folding>
         </state>
       </provider>

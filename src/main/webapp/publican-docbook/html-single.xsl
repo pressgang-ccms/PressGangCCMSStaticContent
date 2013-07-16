@@ -79,6 +79,8 @@ Version:
                     if (eventObject.event == 'scroll') {
                         window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
                     }
+                } catch (exception) {
+                    // the message was not a valid JSON string
                 }
             });
         </script>
