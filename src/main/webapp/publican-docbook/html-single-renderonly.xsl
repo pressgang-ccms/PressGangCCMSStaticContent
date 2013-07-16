@@ -43,17 +43,11 @@ Version:
 
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script>
-
             var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
             var matches = parentDomainRegex.exec(window.location.search);
 
             var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
             var parentLocation = matches == null ? localUrl : matches[1];
-
-
-            $(window).load(function() {
-                window.parent.postMessage('{"event": "loaded"}', parentLocation);
-            });
 
             $(window).ready(function() {
                 var imageTags = $('img');
@@ -63,21 +57,6 @@ Version:
                     if (fileref.substr(0,6) === 'images') {
                         imageTag.attr('src', localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
                     }
-                }
-            });
-
-            $(window).scroll(function() {
-                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
-            });
-
-            window.addEventListener('message', function (event) {
-                try {
-                    var eventObject = JSON.parse(event.data);
-                    if (eventObject.event == 'scroll') {
-                        window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
-                    }
-                } catch (exception) {
-                    // the message was not a valid JSON string
                 }
             });
         </script>
