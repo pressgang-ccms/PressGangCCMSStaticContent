@@ -43,11 +43,7 @@ Version:
 
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script>
-            var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-            var matches = parentDomainRegex.exec(window.location.search);
-
             var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
-            var parentLocation = matches == null ? localUrl : matches[1];
 
             $(window).ready(function() {
                 var imageTags = $('img');

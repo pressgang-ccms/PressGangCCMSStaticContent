@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373956815629" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957201240" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373247701139" ignored="false" />
@@ -161,14 +159,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single-renderonly.xsl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html-single-renderonly.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="73" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.0">
+            <state line="46" column="0" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.44041452">
               <folding>
-                <marker date="1373957191069" expanded="true" signature="1844:2347" placeholder="{...}" />
-                <marker date="1373957191069" expanded="true" signature="1985:2333" placeholder="{...}" />
-                <marker date="1373957191069" expanded="true" signature="2153:2315" placeholder="{...}" />
+                <marker date="1373957334813" expanded="true" signature="1628:2131" placeholder="{...}" />
+                <marker date="1373957334813" expanded="true" signature="1769:2117" placeholder="{...}" />
+                <marker date="1373957334813" expanded="true" signature="1937:2099" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -232,10 +230,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single-placeholder.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html-single-placeholder.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.52904564">
+            <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1373936369441" expanded="true" signature="1847:1944" placeholder="{...}" />
                 <marker date="1373936369441" expanded="true" signature="1988:2180" placeholder="{...}" />
@@ -715,7 +713,11 @@
       <created>1373936672167</created>
       <updated>1373936672167</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Fixed image loading locations">
+      <created>1373957202452</created>
+      <updated>1373957202452</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -733,6 +735,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -741,12 +744,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.62597656" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37402344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37402344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32660332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -792,7 +794,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scrolling is now done by way of messages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed image loading locations" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -823,6 +825,7 @@
     <MESSAGE value="Images are now sourced from the server that supplied the XML, not the server the supplied the UI." />
     <MESSAGE value="Fixed cross domain issues by having the iframe send the current scroll position to the parent" />
     <MESSAGE value="Scrolling is now done by way of messages" />
+    <MESSAGE value="Fixed image loading locations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -934,20 +937,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="73" selection-start="1803" selection-end="1803" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1373957191069" expanded="true" signature="1844:2347" placeholder="{...}" />
-            <marker date="1373957191069" expanded="true" signature="1985:2333" placeholder="{...}" />
-            <marker date="1373957191069" expanded="true" signature="2153:2315" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.52904564">
+        <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1373936369441" expanded="true" signature="1847:1944" placeholder="{...}" />
             <marker date="1373936369441" expanded="true" signature="1988:2180" placeholder="{...}" />
@@ -955,6 +947,17 @@
             <marker date="1373936369441" expanded="true" signature="2270:2635" placeholder="{...}" />
             <marker date="1373936369441" expanded="true" signature="2442:2617" placeholder="{...}" />
             <marker date="1373936369441" expanded="true" signature="2654:2736" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.44041452">
+          <folding>
+            <marker date="1373957334813" expanded="true" signature="1628:2131" placeholder="{...}" />
+            <marker date="1373957334813" expanded="true" signature="1769:2117" placeholder="{...}" />
+            <marker date="1373957334813" expanded="true" signature="1937:2099" placeholder="{...}" />
           </folding>
         </state>
       </provider>
