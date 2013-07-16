@@ -52,8 +52,6 @@ Version:
                     matches[1];
 
             $(window).load(function() {
-
-
                 window.parent.postMessage('{"event": "loaded"}', parentLocation);
             });
 
@@ -68,8 +66,7 @@ Version:
                 }
             });
 
-            $(window).scroll(
-                function() {
+            $(window).scroll(function() {
                     window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
             });
 

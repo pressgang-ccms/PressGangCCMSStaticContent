@@ -55,17 +55,20 @@ Version:
                 window.parent.postMessage('{"event": "loaded"}', parentLocation);
             });
 
-            $(window).scroll(
-                function() {
-                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);;
+            $(window).scroll(function() {
+                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
             });
 
             window.addEventListener('message', function (event) {
                 try {
+                    console.log("Recieved message");
                     var eventObject = JSON.parse(event.data);
                     if (eventObject.event == 'scroll') {
+                        console.log("Recieved scroll message");
                         window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
                     }
+                } catch (exception) {
+                    // the message was not a valid JSON string
                 }
             });
         </script>
