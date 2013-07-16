@@ -69,9 +69,18 @@ Version:
             });
 
             $(window).scroll(
-                    function() {
-                        window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
-                    });
+                function() {
+                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
+            });
+
+            window.addEventListener('message', function (event) {
+                try {
+                    var eventObject = JSON.parse(event.data);
+                    if (eventObject.event == 'scroll') {
+                        window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
+                    }
+                }
+            });
         </script>
 
       <xsl:call-template name="system.head.content">
