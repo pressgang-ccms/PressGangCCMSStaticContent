@@ -43,15 +43,21 @@ Version:
 
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script>
+
+            var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
+            var matches = parentDomainRegex.exec(window.location.search);
+
+            var parentLocation = matches == null ?
+                    window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
+                    matches[1];
+
             $(window).load(function() {
-                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-                var matches = parentDomainRegex.exec(window.location.search);
+                window.parent.postMessage('{"event": "loaded"}', parentLocation);
+            });
 
-                var parentLocation = matches == null ?
-                        window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
-                        matches[1];
-
-                window.parent.postMessage('loaded', parentLocation);
+            $(window).scroll(
+                function() {
+                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);;
             });
         </script>
 

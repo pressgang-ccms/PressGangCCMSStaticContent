@@ -54,7 +54,7 @@ Version:
             $(window).load(function() {
 
 
-                window.parent.postMessage('loaded', parentLocation);
+                window.parent.postMessage('{"event": "loaded"}', parentLocation);
             });
 
             $(window).ready(function() {
@@ -67,6 +67,11 @@ Version:
                     }
                 }
             });
+
+            $(window).scroll(
+                    function() {
+                        window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
+                    });
         </script>
 
       <xsl:call-template name="system.head.content">
