@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" afterPath="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957201240" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374096567383" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373247701139" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373961144866" ignored="false" />
     <file path="/CacheControl.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632651430" ignored="false" />
     <file path="/a.dummy" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372383808899" ignored="false" />
     <file path="/param.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372298426043" ignored="false" />
@@ -27,7 +30,7 @@
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/TopicRenderedPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632793921" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/topics/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091619894" ignored="false" />
     <file path="/TopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091617476" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/base/BaseTopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629420584" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/base/BaseTopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
     <file path="/BaseTopicFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629410159" ignored="false" />
     <file path="/html-single-placeholder.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373934253673" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/base/children/BaseChildrenPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372629329729" ignored="false" />
@@ -67,8 +70,8 @@
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/topic/searchresults/topics/TopicFilteredResultsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372632796512" ignored="false" />
     <file path="/BaseTemplateView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372633644726" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/CSSConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091425682" ignored="false" />
-    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091237351" ignored="false" />
-    <file path="/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373091226806" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373961105737" ignored="false" />
+    <file path="/App.css" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373961085661" ignored="false" />
     <file path="/TopicRevisionsView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373092290233" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/App.html" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373090019682" ignored="false" />
     <file path="/App.html" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373090016827" ignored="false" />
@@ -78,8 +81,31 @@
     <file path="/GWTUtilities.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373248093063" ignored="false" />
     <file path="/html-single-diff.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373869624885" ignored="false" />
     <file path="/TopicRevisionsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373870783901" ignored="false" />
-    <file path="$PROJECT_DIR$/../AceGWT/src/main/java/edu/ycp/cs/dh/acegwt/client/ace/AceEditor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373956974751" ignored="false" />
-    <file path="/html-single-renderonly.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957117713" ignored="false" />
+    <file path="$PROJECT_DIR$/../AceGWT/src/main/java/edu/ycp/cs/dh/acegwt/client/ace/AceEditor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957815206" ignored="false" />
+    <file path="/html-single-renderonly.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374096628280" ignored="false" />
+    <file path="/AceEditor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957744815" ignored="false" />
+    <file path="$PROJECT_DIR$/../AceGWT/src/main/java/edu/ycp/cs/dh/acegwt/AceGWT.gwt.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957815206" ignored="false" />
+    <file path="$PROJECT_DIR$/../AceGWT/src/main/java/edu/ycp/cs/dh/acegwt/client/tagdb/TagDB.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957815206" ignored="false" />
+    <file path="$PROJECT_DIR$/../AceGWT/src/main/java/edu/ycp/cs/dh/acegwt/client/tagdb/GetRESTServerCallback.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373957815207" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/data/TagDBLoader.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="/TagDBLoader.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373959871200" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/ServiceConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="/ServiceConstants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373958106838" ignored="false" />
+    <file path="$PROJECT_DIR$/../AceGWT/pom.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373958274239" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/pom.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373958295414" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/restcalls/FailOverRESTCallDatabase.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="/FailOverRESTCallDatabase.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373958626078" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/TopicXMLView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="/TopicXMLView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373959011421" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/ui/editor/topicview/RESTTopicV1XMLEditor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="/RESTTopicV1XMLEditor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373958989036" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/preferences/Preferences.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/contentspec/ContentSpecRevisionsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/presenter/contentspec/ContentSpecFilteredResultsAndDetailsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/webapp/javascript/tagdb/tagdb.js" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373961108917" ignored="false" />
+    <file path="/tagdb.js" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960935322" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/base/searchandedit/BaseSearchAndEditView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/mvp/view/topic/searchresults/base/BaseSearchResultsAndTopicView.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373960053433" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,30 +169,30 @@
       <file leaf-file-name="html-single.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="12" selection-start="1627" selection-end="1804" vertical-scroll-proportion="0.0">
+            <state line="26" column="39" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1373957191073" expanded="true" signature="1845:1942" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="1985:2488" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2126:2474" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2294:2456" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2532:2724" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2792:3177" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2814:3062" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="2933:3044" placeholder="{...}" />
-                <marker date="1373957191073" expanded="true" signature="3081:3163" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="1953:2050" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2093:2596" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2234:2582" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2402:2564" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2640:2832" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2900:3285" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="2922:3170" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="3041:3152" placeholder="{...}" />
+                <marker date="1374096928728" expanded="true" signature="3189:3271" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single-renderonly.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html-single-renderonly.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="0" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.44041452">
+            <state line="23" column="0" selection-start="974" selection-end="1080" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1373957334813" expanded="true" signature="1628:2131" placeholder="{...}" />
-                <marker date="1373957334813" expanded="true" signature="1769:2117" placeholder="{...}" />
-                <marker date="1373957334813" expanded="true" signature="1937:2099" placeholder="{...}" />
+                <marker date="1374096630558" expanded="true" signature="1756:2259" placeholder="{...}" />
+                <marker date="1374096630558" expanded="true" signature="1897:2245" placeholder="{...}" />
+                <marker date="1374096630558" expanded="true" signature="2065:2227" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -202,11 +228,11 @@
       <file leaf-file-name="html-single-diff.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="93" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="1058" selection-end="1180" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1373957191067" expanded="true" signature="1755:3141" placeholder="{...}" />
-                <marker date="1373957191067" expanded="true" signature="2160:2604" placeholder="{...}" />
-                <marker date="1373957191067" expanded="true" signature="2376:2570" placeholder="{...}" />
+                <marker date="1374096928731" expanded="true" signature="1879:3265" placeholder="{...}" />
+                <marker date="1374096928731" expanded="true" signature="2284:2728" placeholder="{...}" />
+                <marker date="1374096928731" expanded="true" signature="2500:2694" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -230,17 +256,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single-placeholder.xsl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html-single-placeholder.xsl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.0">
+            <state line="24" column="4" selection-start="983" selection-end="983" vertical-scroll-proportion="0.43889844">
               <folding>
-                <marker date="1373936369441" expanded="true" signature="1847:1944" placeholder="{...}" />
-                <marker date="1373936369441" expanded="true" signature="1988:2180" placeholder="{...}" />
-                <marker date="1373936369441" expanded="true" signature="2248:2750" placeholder="{...}" />
-                <marker date="1373936369441" expanded="true" signature="2270:2635" placeholder="{...}" />
-                <marker date="1373936369441" expanded="true" signature="2442:2617" placeholder="{...}" />
-                <marker date="1373936369441" expanded="true" signature="2654:2736" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="1955:2052" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="2096:2288" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="2356:2858" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="2378:2743" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="2550:2725" placeholder="{...}" />
+                <marker date="1374096928725" expanded="true" signature="2762:2844" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -284,10 +310,10 @@
         <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
-        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl" />
+        <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" />
       </list>
     </option>
   </component>
@@ -325,8 +351,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -419,13 +445,13 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -473,19 +499,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -512,6 +525,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -717,7 +743,11 @@
       <created>1373957202452</created>
       <updated>1373957202452</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Fixed image loading locations">
+      <created>1373957340078</created>
+      <updated>1373957340078</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -735,7 +765,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -743,12 +772,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.62597656" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37402344" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.62670565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37329435" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32660332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -862,9 +892,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="2" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="31" column="2" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xsl">
@@ -909,55 +937,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="12" selection-start="1627" selection-end="1804" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="974" selection-end="1080" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1373957191073" expanded="true" signature="1845:1942" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="1985:2488" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2126:2474" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2294:2456" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2532:2724" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2792:3177" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2814:3062" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="2933:3044" placeholder="{...}" />
-            <marker date="1373957191073" expanded="true" signature="3081:3163" placeholder="{...}" />
+            <marker date="1374096630558" expanded="true" signature="1756:2259" placeholder="{...}" />
+            <marker date="1374096630558" expanded="true" signature="1897:2245" placeholder="{...}" />
+            <marker date="1374096630558" expanded="true" signature="2065:2227" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="93" selection-start="1987" selection-end="1987" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="1058" selection-end="1180" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1373957191067" expanded="true" signature="1755:3141" placeholder="{...}" />
-            <marker date="1373957191067" expanded="true" signature="2160:2604" placeholder="{...}" />
-            <marker date="1373957191067" expanded="true" signature="2376:2570" placeholder="{...}" />
+            <marker date="1374096928731" expanded="true" signature="1879:3265" placeholder="{...}" />
+            <marker date="1374096928731" expanded="true" signature="2284:2728" placeholder="{...}" />
+            <marker date="1374096928731" expanded="true" signature="2500:2694" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="39" selection-start="1060" selection-end="1060" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1374096928728" expanded="true" signature="1953:2050" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2093:2596" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2234:2582" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2402:2564" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2640:2832" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2900:3285" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="2922:3170" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="3041:3152" placeholder="{...}" />
+            <marker date="1374096928728" expanded="true" signature="3189:3271" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="21" selection-start="2617" selection-end="2617" vertical-scroll-proportion="0.0">
+        <state line="24" column="4" selection-start="983" selection-end="983" vertical-scroll-proportion="0.43889844">
           <folding>
-            <marker date="1373936369441" expanded="true" signature="1847:1944" placeholder="{...}" />
-            <marker date="1373936369441" expanded="true" signature="1988:2180" placeholder="{...}" />
-            <marker date="1373936369441" expanded="true" signature="2248:2750" placeholder="{...}" />
-            <marker date="1373936369441" expanded="true" signature="2270:2635" placeholder="{...}" />
-            <marker date="1373936369441" expanded="true" signature="2442:2617" placeholder="{...}" />
-            <marker date="1373936369441" expanded="true" signature="2654:2736" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-renderonly.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="1588" selection-end="1588" vertical-scroll-proportion="0.44041452">
-          <folding>
-            <marker date="1373957334813" expanded="true" signature="1628:2131" placeholder="{...}" />
-            <marker date="1373957334813" expanded="true" signature="1769:2117" placeholder="{...}" />
-            <marker date="1373957334813" expanded="true" signature="1937:2099" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="1955:2052" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="2096:2288" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="2356:2858" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="2378:2743" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="2550:2725" placeholder="{...}" />
+            <marker date="1374096928725" expanded="true" signature="2762:2844" placeholder="{...}" />
           </folding>
         </state>
       </provider>

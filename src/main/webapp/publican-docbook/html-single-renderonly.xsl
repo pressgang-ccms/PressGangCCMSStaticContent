@@ -22,10 +22,15 @@
 <xsl:param name="body.only">0</xsl:param>
 
 <!--
-From: xhtml/docbook.xsl
-Reason: add TOC div for web site
-Version:
+    PRESSGANG - Remove section labels
 -->
+<xsl:param name="section.autolabel.max.depth">0</xsl:param>
+
+    <!--
+    From: xhtml/docbook.xsl
+    Reason: add TOC div for web site
+    Version:
+    -->
 
 <xsl:template match="*" mode="process.root">
   <xsl:variable name="doc" select="self::*"/>
