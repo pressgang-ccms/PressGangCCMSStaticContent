@@ -20,7 +20,8 @@ public class CacheControl implements Filter {
 
     }
     
-    public void doFilter(final ServletRequest request, final ServletResponse response, final FilterChain filterChain) throws IOException, ServletException {
+    public void doFilter(final ServletRequest request, final ServletResponse response,
+                         final FilterChain filterChain) throws IOException, ServletException {
         final HttpServletRequest httpRequest = (HttpServletRequest) request;
         final HttpServletResponse httpResponse = (HttpServletResponse) response;
         final String requestURI = httpRequest.getRequestURI();

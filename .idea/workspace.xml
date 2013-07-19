@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="">
+    <list default="true" id="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" name="Default" comment="Added flattened Docbook DTD">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" afterPath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPCompressionFilter.java" afterPath="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPCompressionFilter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PressGangCCMSStaticContent.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373873623559" ignored="false" />
+    <file path="/Dummy.txt" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374202110676" ignored="false" />
     <file path="/jboss-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372219595695" ignored="false" />
     <file path="/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1372220790144" ignored="false" />
     <file path="$PROJECT_DIR$/../PressGangCCMSUI/src/main/java/org/jboss/pressgang/ccms/ui/client/local/constants/Constants.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373247701139" ignored="false" />
@@ -77,6 +80,67 @@
     <file path="/GWTUtilities.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373248093063" ignored="false" />
     <file path="/html-single-diff.xsl" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373869624885" ignored="false" />
     <file path="/TopicRevisionsPresenter.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1373870783901" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/interceptor/VersionHeaderInterceptor.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374193665677" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/base/BaseRESTv1.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/mapper/InternalServerErrorExceptionMapper.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374193665677" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/mapper/BadRequestExceptionMapper.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374193665677" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TranslatedTopicV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TopicV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/RESTv1.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/webapp/WEB-INF/web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374189555938" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/BaseREST.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374193665677" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/resources/META-INF/persistence.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/pom.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201439053" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/ContentSpecV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FilterV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/LanguageFileV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/utils/TopicUtilities.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FileV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/base/EntityCache.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/src/test/resources/test-web.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374189638046" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/src/test/resources/test-persistence.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374189791410" ignored="false" />
+    <file path="/test-persistence.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374189791410" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/pom.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201673845" ignored="false" />
+    <file path="/pom.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374200662978" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FilterTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FilterFieldV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/UserV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TopicPropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/StringConstantV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/CategoryV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/BugzillaBugV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/IntegerConstantV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TranslatedTopicStringV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FilterCategoryV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/PropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/RoleV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/base/BaseAssignedPropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/base/RESTDataObjectFactory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/FilterLocaleV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/PropertyTagInPropertyCategoryV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/ProjectV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/ImageV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/PropertyCategoryV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TopicSourceUrlV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/PropertyCategoryInPropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/LanguageImageV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/CategoryInTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/BlobConstantV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TagInCategoryV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/base/XMLEchoCache.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374193665677" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/src/main/java/org/jboss/pressgang/ccms/workflow/AbstractWebWorkFlow.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374196048989" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/src/main/java/org/jboss/pressgang/ccms/page/WebDriverFactory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374196048989" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSFunctionalTest/src/main/java/org/jboss/pressgang/ccms/page/AbstractPage.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374200725037" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/test/resources/general/test-jboss-deployment-structure.xml" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201439053" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TextContentSpecV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/ContentSpecPropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/CSNodeV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TranslatedCSNodeStringV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TranslatedContentSpecV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/CSNodePropertyTagV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/CSRelatedNodeV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
+    <file path="$PROJECT_DIR$/../PressGangCCMSREST/src/main/java/org/jboss/pressgang/ccms/server/rest/v1/TranslatedCSNodeV1Factory.java" changelist="1d11fcd4-058e-4aa2-82d6-3142b695a7f9" time="1374201532121" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,13 +204,8 @@
       <file leaf-file-name="html-single.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="63" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1373248509408" expanded="true" signature="1510:1950" placeholder="{...}" />
-                <marker date="1373248509408" expanded="true" signature="1993:2485" placeholder="{...}" />
-                <marker date="1373248509408" expanded="true" signature="2134:2471" placeholder="{...}" />
-                <marker date="1373248509408" expanded="true" signature="2302:2453" placeholder="{...}" />
-              </folding>
+            <state line="30" column="45" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,10 +237,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html-single-diff.xsl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="html-single-diff.xsl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="132" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.76704544">
+            <state line="63" column="132" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1373873600626" expanded="true" signature="1755:3152" placeholder="{...}" />
                 <marker date="1373873600626" expanded="true" signature="1928:2361" placeholder="{...}" />
@@ -191,19 +250,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CacheControl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="14" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
+            <state line="23" column="20" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jboss-web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
+      <file leaf-file-name="CacheControl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="23" column="25" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GZIPCompressionFilter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPCompressionFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="27" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GZIPResponseWrapper.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPResponseWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="13" selection-start="396" selection-end="396" vertical-scroll-proportion="-1.3031423">
               <folding />
             </state>
           </provider>
@@ -216,24 +293,6 @@
               <folding>
                 <marker date="1373248509404" expanded="true" signature="1510:1950" placeholder="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graphics.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="2" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="common.xsl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/common.xsl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2083" column="48" selection-start="75990" selection-end="75990" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -264,12 +323,13 @@
         <option value="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/param.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/docbook/xhtml/graphics.xsl" />
-        <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/brand/Common/css/overrides.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-placeholder.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl" />
         <option value="$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl" />
+        <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPCompressionFilter.java" />
       </list>
     </option>
   </component>
@@ -319,7 +379,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -378,35 +437,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="publican-docbook" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pressgang-ccms-static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PressGangCCMSStaticContent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="ccms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -416,9 +458,11 @@
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="MavenSettings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -434,7 +478,7 @@
       <recent name="$PROJECT_DIR$/src/main/webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.Package">
+  <component name="RunManager" selected="Maven.Deploy">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -575,8 +619,51 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Deploy" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="checkstyle.skip" value="true" />
+              </map>
+            </option>
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="deploy" />
+                <option value="-DskipCheckstyle=true" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map>
+                <entry key="oss-public" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Maven.Package" />
+      <item index="1" class="java.lang.String" itemvalue="Maven.Deploy" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -691,7 +778,11 @@
       <created>1373873625862</created>
       <updated>1373873625862</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="For the XML rendered as a source for a diff, the rendered page now sends back the rendered html and the HREF that the page was loaded from.">
+      <created>1373874217740</created>
+      <updated>1373874217740</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -709,7 +800,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -717,12 +807,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24332978" sideWeight="0.6256628" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37433723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24226254" sideWeight="0.6256628" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37433723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973261" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32660332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -805,21 +896,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/dt_htmlsingle_spec.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/docbook/common/insertfile.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="29" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/xhtml-common.xsl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1308" column="34" selection-start="50299" selection-end="50299" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/db4-upgrade.xsl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1309" column="25" selection-start="42195" selection-end="42195" vertical-scroll-proportion="0.0" />
@@ -856,13 +932,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="14" selection-start="897" selection-end="897" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/brand/Common/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="25" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
@@ -895,24 +964,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="63" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1373248509408" expanded="true" signature="1510:1950" placeholder="{...}" />
-            <marker date="1373248509408" expanded="true" signature="1993:2485" placeholder="{...}" />
-            <marker date="1373248509408" expanded="true" signature="2134:2471" placeholder="{...}" />
-            <marker date="1373248509408" expanded="true" signature="2302:2453" placeholder="{...}" />
-          </folding>
+        <state line="30" column="45" selection-start="1140" selection-end="1140" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/publican-docbook/html-single-diff.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="132" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.76704544">
+        <state line="63" column="132" selection-start="3008" selection-end="3008" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1373873600626" expanded="true" signature="1755:3152" placeholder="{...}" />
             <marker date="1373873600626" expanded="true" signature="1928:2361" placeholder="{...}" />
             <marker date="1373873600626" expanded="true" signature="2144:2327" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="20" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/CacheControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="25" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPCompressionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="27" selection-start="2304" selection-end="2304" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/jboss/pressgang/ccms/GZIPResponseWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="396" selection-end="396" vertical-scroll-proportion="-1.3031423">
+          <folding />
         </state>
       </provider>
     </entry>
