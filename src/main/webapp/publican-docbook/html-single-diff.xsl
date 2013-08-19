@@ -22,6 +22,11 @@
     <xsl:param name="body.only">0</xsl:param>
 
     <!--
+        PRESSGANG - Remove section labels
+    -->
+    <xsl:param name="section.autolabel.max.depth">0</xsl:param>
+
+    <!--
     From: xhtml/docbook.xsl
     Reason: add TOC div for web site
     Version:
@@ -44,21 +49,21 @@
                         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
                         <script>
                             $(window).ready(function() {
+
+                                var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
+                                var parentLocation = matches == null ? localUrl : matches[1];
+
                                 var imageTags = $('img');
                                 for (var i = 0, imageTagsLength = imageTags.length; i &lt; imageTagsLength; ++i) {
                                     var imageTag = $(imageTags[i]);
                                     var fileref = imageTag.attr('src');
                                     if (fileref.substr(0,6) === 'images') {
-                                        imageTag.attr('src', '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
+                                        imageTag.attr('src', localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
                                     }
                                 }
 
                                 var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
                                 var matches = parentDomainRegex.exec(window.location.search);
-
-                                var parentLocation = matches == null ?
-                                        window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
-                                        matches[1];
 
                                 // post the rendered html back to the parent
                                 window.parent.postMessage("{\"html\":\"" + $("html").html().replace(/\\/g,"\\\\").replace(/\t/g,"\\t").replace(/\n/g,"\\n").replace(/"/g,"\\\"") + "\",\"href\":\"" + document.location.href + "\"}", parentLocation);

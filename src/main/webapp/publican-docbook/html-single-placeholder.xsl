@@ -22,6 +22,11 @@
 <xsl:param name="body.only">0</xsl:param>
 
 <!--
+    PRESSGANG - Remove section labels
+-->
+<xsl:param name="section.autolabel.max.depth">0</xsl:param>
+
+<!--
 From: xhtml/docbook.xsl
 Reason: add TOC div for web site
 Version:
@@ -43,15 +48,33 @@ Version:
 
         <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
         <script>
+
+            var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
+            var matches = parentDomainRegex.exec(window.location.search);
+
+            var parentLocation = matches == null ?
+                    window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
+                    matches[1];
+
             $(window).load(function() {
-                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-                var matches = parentDomainRegex.exec(window.location.search);
+                window.parent.postMessage('{"event": "loaded"}', parentLocation);
+            });
 
-                var parentLocation = matches == null ?
-                        window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
-                        matches[1];
+            $(window).scroll(function() {
+                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
+            });
 
-                window.parent.postMessage('loaded', parentLocation);
+            window.addEventListener('message', function (event) {
+                try {
+                    console.log("Recieved message");
+                    var eventObject = JSON.parse(event.data);
+                    if (eventObject.event == 'scroll') {
+                        console.log("Recieved scroll message");
+                        window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
+                    }
+                } catch (exception) {
+                    // the message was not a valid JSON string
+                }
             });
         </script>
 
