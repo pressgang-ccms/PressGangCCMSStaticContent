@@ -50,6 +50,9 @@
                         <script>
                             $(window).ready(function() {
 
+                                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
+                                var matches = parentDomainRegex.exec(window.location.search);
+
                                 var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
                                 var parentLocation = matches == null ? localUrl : matches[1];
 
@@ -62,8 +65,7 @@
                                     }
                                 }
 
-                                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-                                var matches = parentDomainRegex.exec(window.location.search);
+
 
                                 // post the rendered html back to the parent
                                 window.parent.postMessage("{\"html\":\"" + $("html").html().replace(/\\/g,"\\\\").replace(/\t/g,"\\t").replace(/\n/g,"\\n").replace(/"/g,"\\\"") + "\",\"href\":\"" + document.location.href + "\"}", parentLocation);
