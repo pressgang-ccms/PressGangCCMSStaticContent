@@ -18,6 +18,8 @@
 -->
 <xsl:param name="placeholderImg" select="1"/>
 
+    <xsl:param name="show.comments">0</xsl:param>
+
 <xsl:param name="html.append"/>
 <xsl:param name="body.only">0</xsl:param>
 
