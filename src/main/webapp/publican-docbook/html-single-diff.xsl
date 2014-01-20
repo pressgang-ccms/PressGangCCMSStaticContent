@@ -29,6 +29,21 @@
     <xsl:param name="section.autolabel.max.depth">0</xsl:param>
 
     <!--
+        PRESSGANG - Add the element <linemarker> before each docbook element. This allows us to work back from
+        the rendered HTML to the lines in the XML editor.
+    -->
+    <xsl:template match="*">
+        <linemarker>
+            <xsl:if test="@pressgangeditorlinenumber">
+                <xsl:attribute name="pressgangeditorlinenumber">
+                    <xsl:value-of select="@pressgangeditorlinenumber"/>
+                </xsl:attribute>
+            </xsl:if>
+        </linemarker>
+        <xsl:apply-imports/>
+    </xsl:template>
+
+    <!--
     From: xhtml/docbook.xsl
     Reason: add TOC div for web site
     Version:
