@@ -48,36 +48,10 @@ Version:
   <html>
     <head>
 
-        <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+        <script src="/pressgang-ccms-static/javascript/jquery/jquery-2.0.2.min.js"></script>
+        <script src="/pressgang-ccms-static/javascript/functions.js"></script>
         <script>
-
-            var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-            var matches = parentDomainRegex.exec(window.location.search);
-
-            var parentLocation = matches == null ?
-                    window.location.protocol + "//" + window.location.hostname + ":" + window.location.port :
-                    matches[1];
-
-            $(window).load(function() {
-                window.parent.postMessage('{"event": "loaded"}', parentLocation);
-            });
-
-            $(window).scroll(function() {
-                    window.parent.postMessage('{"event": "scrolled", "scrollTop": ' + $(window).scrollTop() + ', "scrollLeft": ' + $(window).scrollLeft() +'}', parentLocation);
-            });
-
-            window.addEventListener('message', function (event) {
-                try {
-                    console.log("Recieved message");
-                    var eventObject = JSON.parse(event.data);
-                    if (eventObject.event == 'scroll') {
-                        console.log("Recieved scroll message");
-                        window.scrollTo(eventObject.scrollLeft, eventObject.scrollTop);
-                    }
-                } catch (exception) {
-                    // the message was not a valid JSON string
-                }
-            });
+            initListeners();
         </script>
 
       <xsl:call-template name="system.head.content">

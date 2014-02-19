@@ -48,30 +48,10 @@
                 <html>
                     <head>
 
-                        <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+                        <script src="/pressgang-ccms-static/javascript/jquery/jquery-2.0.2.min.js"></script>
+                        <script src="/pressgang-ccms-static/javascript/functions.js"></script>
                         <script>
-                            $(window).ready(function() {
-
-                                var parentDomainRegex = /parentDomain=(.*?)(&amp;|$)/;
-                                var matches = parentDomainRegex.exec(window.location.search);
-
-                                var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
-                                var parentLocation = matches == null ? localUrl : matches[1];
-
-                                var imageTags = $('img');
-                                for (var i = 0, imageTagsLength = imageTags.length; i &lt; imageTagsLength; ++i) {
-                                    var imageTag = $(imageTags[i]);
-                                    var fileref = imageTag.attr('src');
-                                    if (fileref.substr(0,6) === 'images') {
-                                        imageTag.attr('src', localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
-                                    }
-                                }
-
-
-
-                                // post the rendered html back to the parent
-                                window.parent.postMessage("{\"html\":\"" + $("html").html().replace(/\\/g,"\\\\").replace(/\t/g,"\\t").replace(/\n/g,"\\n").replace(/"/g,"\\\"") + "\",\"href\":\"" + document.location.href + "\"}", parentLocation);
-                            });
+                            initImages(true);
                         </script>
 
                         <xsl:call-template name="system.head.content">

@@ -50,20 +50,10 @@
   <html>
     <head>
 
-        <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+        <script src="/pressgang-ccms-static/javascript/jquery/jquery-2.0.2.min.js"></script>
+        <script src="/pressgang-ccms-static/javascript/functions.js"></script>
         <script>
-            var localUrl = window.location.protocol + "//" + window.location.hostname + ":" + window.location.port;
-
-            $(window).ready(function() {
-                var imageTags = $('img');
-                for (var i = 0, imageTagsLength = imageTags.length; i &lt; imageTagsLength; ++i) {
-                    var imageTag = $(imageTags[i]);
-                    var fileref = imageTag.attr('src');
-                    if (fileref.substr(0,6) === 'images') {
-                        imageTag.attr('src', localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11));
-                    }
-                }
-            });
+            initImages(false);
         </script>
 
       <xsl:call-template name="system.head.content">
