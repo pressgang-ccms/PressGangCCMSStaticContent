@@ -17,9 +17,6 @@
     is displayed for all images, or if the original image should be displayed.
 -->
 <xsl:param name="placeholderImg" select="0"/>
-
-
-
 <!--
     PRESSGANG - enable remakrs
 -->
@@ -27,21 +24,6 @@
 
 <xsl:param name="html.append"/>
 <xsl:param name="body.only">0</xsl:param>
-
-    <!--
-        PRESSGANG - Add the element <linemarker> before each docbook element. This allows us to work back from
-        the rendered HTML to the lines in the XML editor.
-    -->
-    <xsl:template match="*">
-        <linemarker>
-            <xsl:if test="@pressgangeditorlinenumber">
-                <xsl:attribute name="pressgangeditorlinenumber">
-                    <xsl:value-of select="@pressgangeditorlinenumber"/>
-                </xsl:attribute>
-            </xsl:if>
-        </linemarker>
-        <xsl:apply-imports/>
-    </xsl:template>
 
 
 <!--
