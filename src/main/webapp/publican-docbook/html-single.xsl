@@ -24,9 +24,10 @@
 <xsl:param name="body.only">0</xsl:param>
 
 <!--
-    PRESSGANG - Remove section labels
+    PRESSGANG - Remove section and chapter labels
 -->
 <xsl:param name="section.autolabel.max.depth">0</xsl:param>
+<xsl:param name="chapter.autolabel">0</xsl:param>
 
 <!--
 From: xhtml/docbook.xsl

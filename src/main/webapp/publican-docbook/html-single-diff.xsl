@@ -27,6 +27,7 @@
         PRESSGANG - Remove section labels
     -->
     <xsl:param name="section.autolabel.max.depth">0</xsl:param>
+    <xsl:param name="chapter.autolabel">0</xsl:param>
 
     <!--
     From: xhtml/docbook.xsl
