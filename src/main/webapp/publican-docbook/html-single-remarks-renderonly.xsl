@@ -12,24 +12,50 @@
 
 <xsl:output method="xml" encoding="UTF-8" indent="no" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" omit-xml-declaration="no" />
 
-<!--
-    PRESSGANG - This is read by <xsl:template name="process.image"> in xhtml-common, and defines whether a placeholder image
-    is displayed for all images, or if the original image should be displayed.
--->
-<xsl:param name="placeholderImg" select="0"/>
-<!--
-    PRESSGANG - enable remakrs
--->
-<xsl:param name="show.comments">1</xsl:param>
+    <!--
+        PRESSGANG - This is read by <xsl:template name="process.image"> in xhtml-common, and defines whether a placeholder image
+        is displayed for all images, or if the original image should be displayed.
+    -->
+    <xsl:param name="placeholderImg" select="0"/>
+    <!--
+        PRESSGANG - enable remakrs
+    -->
+    <xsl:param name="show.comments">1</xsl:param>
 
-<xsl:param name="html.append"/>
-<xsl:param name="body.only">0</xsl:param>
+    <xsl:param name="html.append"/>
+    <xsl:param name="body.only">0</xsl:param>
 
-<!--
-    PRESSGANG - Remove section labels
--->
+    <!--
+        PRESSGANG - Remove section labels
+    -->
     <xsl:param name="section.autolabel.max.depth">0</xsl:param>
     <xsl:param name="chapter.autolabel">0</xsl:param>
+
+    <!--
+        PRESSGANG - Remove table, figure, example and equation labels
+    -->
+    <xsl:param name="local.l10n.xml" select="document('')"/>
+    <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+        <l:l10n language="en">
+            <l:context name="title">
+                <l:template name="table" text="%t"/>
+                <l:template name="figure" text="%t"/>
+                <l:template name="example" text="%t"/>
+                <l:template name="equation" text="%t"/>
+            </l:context>
+            <l:context name="xref-number-and-title">
+                <l:template name="table" text="%t"/>
+                <l:template name="figure" text="%t"/>
+                <l:template name="example" text="%t"/>
+                <l:template name="equation" text="%t"/>
+            </l:context>
+        </l:l10n>
+    </l:i18n>
+
+    <xsl:template match="table" mode="label.markup"/>
+    <xsl:template match="figure" mode="label.markup"/>
+    <xsl:template match="example" mode="label.markup"/>
+    <xsl:template match="equation" mode="label.markup"/>
 
     <!--
     From: xhtml/docbook.xsl

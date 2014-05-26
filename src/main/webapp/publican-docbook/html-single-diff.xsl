@@ -30,6 +30,32 @@
     <xsl:param name="chapter.autolabel">0</xsl:param>
 
     <!--
+        PRESSGANG - Remove table, figure, example and equation labels
+    -->
+    <xsl:param name="local.l10n.xml" select="document('')"/>
+    <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+        <l:l10n language="en">
+            <l:context name="title">
+                <l:template name="table" text="%t"/>
+                <l:template name="figure" text="%t"/>
+                <l:template name="example" text="%t"/>
+                <l:template name="equation" text="%t"/>
+            </l:context>
+            <l:context name="xref-number-and-title">
+                <l:template name="table" text="%t"/>
+                <l:template name="figure" text="%t"/>
+                <l:template name="example" text="%t"/>
+                <l:template name="equation" text="%t"/>
+            </l:context>
+        </l:l10n>
+    </l:i18n>
+
+    <xsl:template match="table" mode="label.markup"/>
+    <xsl:template match="figure" mode="label.markup"/>
+    <xsl:template match="example" mode="label.markup"/>
+    <xsl:template match="equation" mode="label.markup"/>
+
+    <!--
     From: xhtml/docbook.xsl
     Reason: add TOC div for web site
     Version:
