@@ -40,6 +40,7 @@
                 <l:template name="figure" text="%t"/>
                 <l:template name="example" text="%t"/>
                 <l:template name="equation" text="%t"/>
+                <l:template name="procedure" text="%t"/>
             </l:context>
             <l:context name="xref-number-and-title">
                 <l:template name="table" text="%t"/>

@@ -30,8 +30,8 @@
     <xsl:param name="chapter.autolabel">0</xsl:param>
 
     <!--
-        PRESSGANG - Remove table, figure, example and equation labels
-    -->
+         PRESSGANG - Remove table, figure, example and equation labels
+     -->
     <xsl:param name="local.l10n.xml" select="document('')"/>
     <l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
         <l:l10n language="en">
@@ -40,6 +40,7 @@
                 <l:template name="figure" text="%t"/>
                 <l:template name="example" text="%t"/>
                 <l:template name="equation" text="%t"/>
+                <l:template name="procedure" text="%t"/>
             </l:context>
             <l:context name="xref-number-and-title">
                 <l:template name="table" text="%t"/>
