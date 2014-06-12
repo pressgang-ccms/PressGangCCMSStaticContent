@@ -40,12 +40,14 @@
                 <l:template name="figure" text="%t"/>
                 <l:template name="example" text="%t"/>
                 <l:template name="equation" text="%t"/>
+                <l:template name="procedure" text="%t"/>
             </l:context>
             <l:context name="xref-number-and-title">
                 <l:template name="table" text="%t"/>
                 <l:template name="figure" text="%t"/>
                 <l:template name="example" text="%t"/>
                 <l:template name="equation" text="%t"/>
+                <l:template name="procedure" text="%t"/>
             </l:context>
         </l:l10n>
     </l:i18n>
@@ -54,6 +56,7 @@
     <xsl:template match="figure" mode="label.markup"/>
     <xsl:template match="example" mode="label.markup"/>
     <xsl:template match="equation" mode="label.markup"/>
+    <xsl:template match="procedure" mode="label.markup"/>
 
     <!--
     From: xhtml/docbook.xsl
