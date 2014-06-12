@@ -1,7 +1,10 @@
 function initListeners() {
     var parentDomain = getParentDomainFromQuery();
     var parentLocation = parentDomain == null ? getLocalUrl() : parentDomain;
+    initListeners(parentDomain, parentLocation);
+}
 
+function initListeners(parentDomain, parentLocation) {
     $(window).load(function() {
         window.parent.postMessage('{"event": "loaded"}', parentLocation);
     });
@@ -23,18 +26,28 @@ function initListeners() {
 }
 
 function initImages(postHTMLToParent) {
+    init(postHTMLToParent, true);
+}
+
+function init(postHTMLToParent, initImages, initListeners) {
     var localUrl = getLocalUrl();
     var parentDomain = getParentDomainFromQuery();
     var parentLocation = parentDomain == null ? localUrl : parentDomain;
 
+    if (initListeners) {
+        this.initListeners(parentDomain, parentLocation);
+    }
+
     $(window).ready(function() {
-        var imageTags = $('img');
-        for (var i = 0, imageTagsLength = imageTags.length; i < imageTagsLength; ++i) {
-            var imageTag = $(imageTags[i]);
-            var fileref = imageTag.attr('src');
-            if (fileref.substr(0,6) === 'images') {
-                var imageUrl = localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11);
-                imageTag.attr('src', imageUrl);
+        if (initImages) {
+            var imageTags = $('img');
+            for (var i = 0, imageTagsLength = imageTags.length; i < imageTagsLength; ++i) {
+                var imageTag = $(imageTags[i]);
+                var fileref = imageTag.attr('src');
+                if (fileref.substr(0,6) === 'images') {
+                    var imageUrl = localUrl + '/pressgang-ccms/rest/1/image/get/raw/' + fileref.substr(7, fileref.length - 11);
+                    imageTag.attr('src', imageUrl);
+                }
             }
         }
 
