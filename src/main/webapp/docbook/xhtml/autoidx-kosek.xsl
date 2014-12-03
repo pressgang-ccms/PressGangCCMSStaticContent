@@ -16,7 +16,7 @@
 <!-- ==================================================================== -->
 <!-- The "kosek" method contributed by Jirka Kosek. -->
 
-<xsl:include href="../common/autoidx-kosek.xsl"/>
+<xsl:include href="/pressgang-ccms-static/docbook/common/autoidx-kosek.xsl"/>
 
 <xsl:template name="generate-kosek-index">
   <xsl:param name="scope" select="(ancestor::book|/)[last()]"/>

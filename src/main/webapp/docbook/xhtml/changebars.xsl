@@ -14,7 +14,7 @@
      ******************************************************************** -->
 
 <!-- ==================================================================== -->
-<xsl:import href="docbook.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/docbook.xsl"/>
 
 <xsl:param name="show.revisionflag" select="'1'"/>
 

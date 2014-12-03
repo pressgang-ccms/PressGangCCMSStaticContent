@@ -15,7 +15,7 @@
 
 <!-- ==================================================================== -->
 
-<xsl:import href="chunk.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk.xsl"/>
 
 <!-- Ok, using the onechunk parameter makes this all work again. -->
 <!-- It does have the disadvantage that it only works for documents that have -->

@@ -3,7 +3,7 @@
 <!--from the HTML stylesheets.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:doc="http://nwalsh.com/xsl/documentation/1.0" xmlns:stbl="http://nwalsh.com/xslt/ext/com.nwalsh.saxon.Table" xmlns:xtbl="xalan://com.nwalsh.xalan.Table" xmlns:lxslt="http://xml.apache.org/xslt" xmlns:ptbl="http://nwalsh.com/xslt/ext/xsltproc/python/Table" xmlns="http://www.w3.org/1999/xhtml" exclude-result-prefixes="doc stbl xtbl lxslt ptbl" version="1.0">
 
-<xsl:include href="../common/table.xsl"/>
+<xsl:include href="/pressgang-ccms-static/docbook/common/table.xsl"/>
 
 <!-- ********************************************************************
      $Id: table.xsl 9297 2012-04-22 03:56:16Z bobstayton $

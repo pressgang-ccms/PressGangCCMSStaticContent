@@ -20,7 +20,7 @@
 <!-- ==================================================================== -->
 
 
-<xsl:include href="../common/autoidx-kimber.xsl"/>
+<xsl:include href="/pressgang-ccms-static/docbook/common/autoidx-kimber.xsl"/>
 
 <!-- Java sort apparently works only on lang part, not country -->
 <xsl:param name="sort.lang">

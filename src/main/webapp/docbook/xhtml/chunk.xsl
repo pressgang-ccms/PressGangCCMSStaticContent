@@ -22,14 +22,14 @@
      customizes any presentation templates. Then your chunking
      customization should import mydocbook.xsl instead of
      docbook.xsl.  -->
-<xsl:import href="docbook-no-doctype.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/docbook-no-doctype.xsl"/>
 
 <!-- chunk-common.xsl contains all the named templates for chunking.
      In a customization file, you import chunk-common.xsl, then
      add any customized chunking templates of the same name. 
      They will have import precedence over the original 
      chunking templates in chunk-common.xsl. -->
-<xsl:import href="chunk-common.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk-common.xsl"/>
 
 <!-- The manifest.xsl module is no longer imported because its
      templates were moved into chunk-common and chunk-code -->
@@ -47,6 +47,6 @@
      customizations that use xsl:apply-imports to wrongly
      apply the chunking version instead of the original
      non-chunking version to format an element.  -->
-<xsl:include href="chunk-code.xsl"/>
+<xsl:include href="/pressgang-ccms-static/docbook/xhtml/chunk-code.xsl"/>
 
 </xsl:stylesheet>

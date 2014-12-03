@@ -15,7 +15,7 @@
 
 <!-- ==================================================================== -->
 
-<xsl:import href="chunk.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk.xsl"/>
 <xsl:param name="chunk.fast" select="1"/>
 
 <xsl:variable name="chunks" select="exsl:node-set($chunk.hierarchy)//cf:div"/>

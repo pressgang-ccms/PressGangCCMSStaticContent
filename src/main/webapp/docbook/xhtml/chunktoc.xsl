@@ -15,8 +15,8 @@
 
 <!-- ==================================================================== -->
 
-<xsl:import href="docbook.xsl"/>
-<xsl:import href="chunk-common.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/docbook.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk-common.xsl"/>
 
 <xsl:template name="chunk">
   <xsl:param name="node" select="."/>

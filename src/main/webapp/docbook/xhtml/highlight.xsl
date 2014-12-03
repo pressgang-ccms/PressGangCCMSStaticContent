@@ -11,7 +11,7 @@
      and other information.
 
      ******************************************************************** -->
-  <xsl:import href="../highlighting/common.xsl"/>
+  <xsl:import href="/pressgang-ccms-static/docbook/highlighting/common.xsl"/>
   <xsl:template match="xslthl:keyword" mode="xslthl">
     <strong class="hl-keyword">
       <xsl:apply-templates mode="xslthl"/>

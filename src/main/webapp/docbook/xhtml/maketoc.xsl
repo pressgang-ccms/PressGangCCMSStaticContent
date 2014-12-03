@@ -15,8 +15,8 @@
 
 <!-- ==================================================================== -->
 
-<xsl:import href="docbook.xsl"/>
-<xsl:import href="chunk.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/docbook.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk.xsl"/>
 
 <xsl:output method="xml" indent="no" encoding="UTF-8" doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"/>
 

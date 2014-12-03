@@ -18,8 +18,8 @@
 <!-- This file is a variant of chunk.xsl, to be used for generating chunked 
      output with highlighting based on change markup. -->
 
-<xsl:import href="changebars.xsl"/>
-<xsl:import href="chunk-common.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/changebars.xsl"/>
+<xsl:import href="/pressgang-ccms-static/docbook/xhtml/chunk-common.xsl"/>
 
 <!-- This customization of "process-chunk-element" is needed in order to make change 
      highlighting be inherited by chunked children of an element with change markup. -->
@@ -91,6 +91,6 @@
   </xsl:choose>
 </xsl:template>
 
-<xsl:include href="chunk-code.xsl"/>
+<xsl:include href="/pressgang-ccms-static/docbook/xhtml/chunk-code.xsl"/>
 
 </xsl:stylesheet>
